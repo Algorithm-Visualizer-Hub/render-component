@@ -2,6 +2,7 @@
   "name": "render-component",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://algorithm-visualizer.org",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.51.0"
   }
 }
